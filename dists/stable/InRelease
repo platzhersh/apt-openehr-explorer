@@ -1,0 +1,42 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Sun, 23 Aug 2026 22:04:01 +0000
+Label: openEHR Explorer
+Origin: openEHR Explorer
+Suite: stable
+MD5Sum:
+ 137ee99cd8b9465ae11eb2e1ff5a0866              156 Release
+ 29166166ce8b975d140a700dc2c8ff3d              707 main/binary-amd64/Packages
+ 79b82b01c77822b76bf10879eab1c7d9              504 main/binary-amd64/Packages.gz
+SHA1:
+ ef91c06d65499c98d2f415682aebb34037475feb              156 Release
+ b8ecb5464554f26c9825fa37025e63bfbde21296              707 main/binary-amd64/Packages
+ 16b507d4a69febb6649aa4c4e625e679e085b7b4              504 main/binary-amd64/Packages.gz
+SHA256:
+ 2205865266726e2d6cbde4da7c04c9b8d731062bced136cc96f6420035f545a0              156 Release
+ ef4102c92b6c73f7fda85430a13aa7bf423a8c97562edb8a4d3859520c66b1ea              707 main/binary-amd64/Packages
+ 677fd1ce2ee72e4fecc444d8f6854bb739a3a0853e0c61e9590268f2e0c4cc12              504 main/binary-amd64/Packages.gz
+SHA512:
+ edb070cfd90a61a22d954bc822b0f21282bfeb5225b563b24fd5a27ba53da48dda80ac77c7cf240ff9556fa8a20c444a137a7fccb24eec544dbcdb122533a8b8              156 Release
+ 8f28f654fa2c17dc7b5044ec1e7767e7e38384eb4557d4c4a22a2be86895bc63922ff7a59728cd145c90c1a9bac350198b816d1a6fda80521567f57944140a6d              707 main/binary-amd64/Packages
+ 16a50a920f35a6a3bad6a8aea356314bd1389265449fbb208469295c809cb376d742aa3b5c22fc80ba544d92156185692b0abae8251c842842311fcd81b077f0              504 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEuHjGYSFy1pya3YOXESJ4lGLIxvAFAmqLblIACgkQESJ4lGLI
+xvBAwQ//REH+nLF0bY9wPisza6WqUN0Jyp8Z1OGmUmfetY+fd6Dob+Ezn+QnnFsx
+Mzuqj9N85Ni3+NB3r5dnf/tqFUk6EZ+X4PSyBtJKbLiPbOpwKuUisDaj6qCWequI
+2gvpFpeFeBQmc9CNPRpCtZ9oV1Ai34/bhwblu8MPDn281yqSwaw+ch52ZRHRvKVP
+a5IGFpbMt+WtAW9Ot1ybbczxe50wEajnrtmtQAyCo48UdijoDxdk5N6Ia7FaT2yu
+Z7t0fOKwlRq+G+o1xBERtSl7rklNP8GB2bNt8svPzOraZwnuNmo/k5ELv1ePcFAn
+hBWERemS34Ns2Xapte/WfofA7WgCC+ml0oTXMdUo3UHyFUwLuCSbGmnT3G5TBZl+
+qTIdKG53uJy4BIRf6pxl+RShxcFGQI3mbL5E0qnUftG/pLJQOS48qwXQFsAF4/3i
+QlbLWASC3tEJsjFZGR9NIt+Y0rfsogfNDcwkPwlXhIdMwOtppWxWtWNfLlRf7pJF
+GRmK7cbswSz8LGTPMJ78lNLhSTJ2vBIq5eaOTrdxzCJNIG0LX5lyIRilHxd5DW75
+Nvbzar4S8L7SZcOHIOLg4TvdXLucMh2bTeuMvpiKdxHAk3RYC+Ea5uNYMwrDYyqX
+e6pR7C4KwY7AWKhJLvDl2f5VBKRwN630YPBKKCR0Tb56ghvuYfI=
+=xEyU
+-----END PGP SIGNATURE-----
