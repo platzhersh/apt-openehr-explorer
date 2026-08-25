@@ -15,3 +15,20 @@ Homepage: https://platzhersh.github.io/openehr-explorer/
 Description: Cross-platform desktop browser for openEHR CDR instances
  (none)
 
+Package: open-ehr-explorer
+Architecture: amd64
+Version: 0.6.0
+Priority: optional
+Maintainer: openEHR Explorer Contributors
+Installed-Size: 29686
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/o/open-ehr-explorer/openEHR.Explorer_0.6.0_amd64.deb
+Size: 9052824
+MD5sum: e1202a7a8b7123f85b6c58958247818a
+SHA1: 553e144a9a7d7038565e9bd9a4de5c9a6546e01c
+SHA256: 2e6c63486602e1e9da629f51b77aaaca66b7863bd84a7d43f58112ff499125d8
+SHA512: c25de850c3f755165255d5d788631fc8ba883d92457e2e69c9d36476d2c57fe5bf4e87315c51dfcc0a582793bf244081e0d4f35275169111bee9bb1233f548f8
+Homepage: https://platzhersh.github.io/openehr-explorer/
+Description: Cross-platform desktop browser for openEHR CDR instances
+ (none)
+
