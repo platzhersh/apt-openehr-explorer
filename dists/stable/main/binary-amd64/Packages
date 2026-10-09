@@ -1,5 +1,22 @@
 Package: open-ehr-explorer
 Architecture: amd64
+Version: 0.10.0
+Priority: optional
+Maintainer: openEHR Explorer Contributors
+Installed-Size: 31771
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/o/open-ehr-explorer/openEHR.Explorer_0.10.0_amd64.deb
+Size: 9677018
+MD5sum: a394aedefdb9a5f8d808cccafee7fd54
+SHA1: 827dcc9e385ea704fabada5eb9857b9b3009020d
+SHA256: cedee0374f29fa6fc3039a937b99fcffb947cec53c92f72ea1fef108f05300d9
+SHA512: b1c6bd2befd69a4b4ee1e7304251a91b3c1c4d53e4ba2425a7d20a8f0d363f526dd94c9586168ca4a9d959a304920aab9a1dd6ea75272a5f123742e029ef79d2
+Homepage: https://openehr-explorer.dev/
+Description: Cross-platform desktop browser for openEHR CDR instances
+ (none)
+
+Package: open-ehr-explorer
+Architecture: amd64
 Version: 0.5.2
 Priority: optional
 Maintainer: openEHR Explorer Contributors
